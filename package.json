@@ -1,0 +1,27 @@
+{
+  "name": "async-you",
+  "version": "1.0.0",
+  "description": "the tutorial of async-you",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangtuoparis13/async-you.git"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "module"
+  ],
+  "author": "ZHANG Tuo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangtuoparis13/async-you/issues"
+  },
+  "homepage": "https://github.com/zhangtuoparis13/async-you#readme",
+  "dependencies": {
+    "async": "^2.0.1"
+  }
+}
